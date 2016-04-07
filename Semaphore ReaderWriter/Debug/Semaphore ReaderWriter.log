@@ -1,0 +1,14 @@
+﻿Build started 07/04/2016 10:36:29.
+     1>Project "C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Semaphore ReaderWriter\Semaphore ReaderWriter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Semaphore ReaderWriter.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Semaphore ReaderWriter.cpp"
+         Semaphore ReaderWriter.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Debug\Semaphore ReaderWriter.exe" /INCREMENTAL /NOLOGO SDL2main.lib SDL2.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Debug\Semaphore ReaderWriter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Debug\Semaphore ReaderWriter.lib" /MACHINE:X86 "Debug\Semaphore ReaderWriter.obj"
+         Debug\stdafx.obj
+         Semaphore ReaderWriter.vcxproj -> C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Debug\Semaphore ReaderWriter.exe
+     1>Done Building Project "C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Semaphore ReaderWriter\Semaphore ReaderWriter.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.79

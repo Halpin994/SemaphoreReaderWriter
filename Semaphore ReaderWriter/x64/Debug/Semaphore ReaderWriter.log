@@ -1,0 +1,13 @@
+﻿Build started 07/04/2016 10:22:15.
+     1>Project "C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Semaphore ReaderWriter\Semaphore ReaderWriter.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"x64\Debug\Semaphore ReaderWriter.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Semaphore ReaderWriter.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt "Semaphore ReaderWriter.cpp"
+         Semaphore ReaderWriter.cpp
+     1>c:\users\lab422\documents\visual studio 2013\projects\games engineering\semaphores\semaphorereaderwriter\semaphore readerwriter\semaphore readerwriter.cpp(7): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+     1>Done Building Project "C:\Users\lab422\Documents\Visual Studio 2013\Projects\Games Engineering\Semaphores\SemaphoreReaderWriter\Semaphore ReaderWriter\Semaphore ReaderWriter.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.82
